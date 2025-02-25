@@ -1,5 +1,5 @@
 # Signal (Event-based)
-Very small, basically Fundamental Signal Implementation NOT compliant with [tc39 Signals proposal](https://github.com/tc39/proposal-signals) since it uses events to notify subscribers rather than closures, but looks similar.
+Very small, basically Fundamental Signal Implementation NOT compliant with [tc39 Signals proposal](https://github.com/tc39/proposal-signals) since it uses events to notify subscribers rather than closures, but looks similar. The subscription is (somewhat) complaint with [Observabe Proposal](https://github.com/tc39/proposal-observable).
 
 ## Explanation
 
